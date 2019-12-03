@@ -14,7 +14,9 @@ From there we can add the dependencies:
 
 `] add JuLIP`
 
-For Python support:
+===========================================
+
+For ASE Python support:
 
 First we will need to install PyJulia
 

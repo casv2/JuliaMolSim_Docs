@@ -4,13 +4,13 @@ These docs show how to fit and regularise PoSH potentials in Julia, and also sho
 
 Form the Julia REPL:
 
-] registry add https://github.com/JuliaMolSim/MolSim.git
+`] registry add https://github.com/JuliaMolSim/MolSim.git`
 
 From there we can add the dependencies:
 
-] add PoSH
-] add IPFitting
-] add JuLIP
+`] add PoSH`
+`] add IPFitting`
+`] add JuLIP`
 
 For Python support:
 

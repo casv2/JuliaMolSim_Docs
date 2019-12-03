@@ -9,7 +9,9 @@ Form the Julia REPL:
 From there we can add the dependencies:
 
 `] add PoSH`
+
 `] add IPFitting`
+
 `] add JuLIP`
 
 For Python support:
